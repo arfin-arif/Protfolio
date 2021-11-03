@@ -1,0 +1,23 @@
+
+.name{
+    font-family: 'Ceviche One', cursive;;
+    font-size: 10px;
+}
+body{ font-family:Georgia, 'Times New Roman', Times, serif ;
+
+}
+h1{font-size: 50px;}
+.name-highlight{
+    color: rgb(57, 223, 79);
+}
+.half{
+    width: 45%;
+    float: left;
+    margin: 5%;
+    padding: 3%;
+    
+}
+.half-image{
+    width: 100%;
+    padding-top: 10%;
+}
