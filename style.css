@@ -5,7 +5,7 @@ body{
     font-family: 'Ceviche One', cursive;;
     font-size: 10px;
 }
-body{ font-family:Georgia, 'Times New Roman', Times, serif ;
+body{ font-family:Verdana, Geneva, Tahoma, sans-serif ;
 }
 h1{font-size: 50px;}
 .name-highlight{
@@ -25,19 +25,43 @@ h1{font-size: 50px;}
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: -12%;
 
 }
-.link-button{
+
+
+
+
+.button{
     text-decoration: none ;
-    background-image: linear-gradient( 90deg, rgb(32, 248, 32), rgb(18, 212, 164)) ;
+    background-image: linear-gradient( 90deg, rgb(46, 252, 46), rgb(18, 212, 164)) ;
     padding: 10px 20px;
     border-radius: 5px;
     font-size: 20px;
     font-style: oblique;
-    font-weight: 700;
+    font-weight: 700px;
     color: white;
 }
+
 .arfin{
     width: 500px;
     padding-bottom: 10%;
-  
+}
+.half-image1{
+    float: left;
+   padding: 2%;
+   margin: 5%;
+    height: 150%;
+    padding-top: 4%;
+}
+.half1{
+    padding: 5%;
+    
+}
+.middle-banner{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+
+}
